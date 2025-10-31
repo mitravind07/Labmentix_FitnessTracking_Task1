@@ -131,6 +131,4 @@ env/ or venv/
 MIT License; educational use; Fitbit sample datasets for demonstration
 
 🙌 Credits 🙏
-
-Built by Yashvi Verma ❤️
 🐍 Python • 🐘 PostgreSQL • 📊 Power BI
